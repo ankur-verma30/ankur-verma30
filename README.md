@@ -1,6 +1,6 @@
 ![logo](https://github.com/ankur-verma30/ankur-verma30/blob/main/developer.png)
 <h1 align="center">Hi 👋, I'm Ankur Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur-verma30&label=Profile%20views&color=0e75b6&style=flat" alt="ankur-verma30" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Voting Application](https://github.com/ankur-verma30/Voting-Application)
 
-- 🌱 I’m currently learning **ReactJS and Data Structures**
+- 🌱 I’m currently learning **NextJS and Advanced Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://ankur-verma30.github.io/My-Portfolio/](https://ankur-verma30.github.io/My-Portfolio/)
 
-- 💬 Ask me about **C/C++, HTML,CSS and its preprocessors, Javascript, I have some knowledge about Python & Java**
+- 💬 Ask me about **C/C++, HTML, CSS and its preprocessors, Javascript, and React, I have some knowledge about Python & Java**
 
 - 📫 How to reach me **ankurverma7619@gmail.com**
 
