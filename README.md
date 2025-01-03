@@ -1,6 +1,6 @@
 ![logo](https://github.com/ankur-verma30/ankur-verma30/blob/main/developer.png)
 <h1 align="center">Hi 👋, I'm Ankur Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur-verma30&label=Profile%20views&color=0e75b6&style=flat" alt="ankur-verma30" /> </p>
 
