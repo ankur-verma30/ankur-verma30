@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Full Stack Web Projects
 
-- 🌱 I’m currently learning **TypeSc and Advanced Data Structures for CP**
+- 🌱 I’m currently learning **TypeScript and Advanced Data Structures for CP**
 
 - 👨‍💻 All of my projects are available at [https://ankur-verma30.github.io/My-Portfolio/](https://portfolio-next-js-15.vercel.app/)
 
