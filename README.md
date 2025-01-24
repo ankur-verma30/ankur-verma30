@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/ankur_codez07" target="blank"><img src="https://img.shields.io/twitter/follow/ankur_codez07?logo=twitter&style=for-the-badge" alt="ankur_codez07" /></a> </p>
 
-- 🔭 I’m currently working on [AR/VR](https://github.com/ankur-verma30)
+- 🔭 I’m currently working on Full Stack Web Projects
 
-- 🌱 I’m currently learning **NextJS and Advanced Data Structures**
+- 🌱 I’m currently learning **TypeSc and Advanced Data Structures for CP**
 
-- 👨‍💻 All of my projects are available at [https://ankur-verma30.github.io/My-Portfolio/](https://ankur-verma30.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ankur-verma30.github.io/My-Portfolio/](https://portfolio-next-js-15.vercel.app/)
 
-- 💬 Ask me about **C/C++, HTML,CSS and its preprocessors, Javascript,and React. I have some knowledge about Python & Java**
+- 💬 Ask me about **C/C++, MERN Stack. I have some knowledge about Python & Java**
 
 - 📫 How to reach me **ankurverma7619@gmail.com**
 
