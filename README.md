@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-verma30&show_icons=true&locale=en" alt="ankur-verma30" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankur-verma30)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankur-verma30&theme=dark" alt="GitHub Streak" /></a>
